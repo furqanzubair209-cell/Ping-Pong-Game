@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background: radial-gradient(circle at top, #0f2027, #000);
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin: 20px 0;
+  letter-spacing: 6px;
+  color: #00e5ff;
+  text-shadow: 0 0 20px #00e5ff;
+}
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  background: linear-gradient(135deg, #050a15, #02040a);
+  border-radius: 15px;
+  box-shadow: 0 0 35px rgba(0, 229, 255, 0.4);
+}
+
+#resetBtn {
+  margin-top: 15px;
+  padding: 10px 40px;
+  font-size: 16px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+  color: white;
+  box-shadow: 0 0 20px rgba(255, 75, 43, 0.8);
+  transition: transform 0.2s;
+}
+
+#resetBtn:hover {
+  transform: scale(1.08);
+}
