@@ -54,19 +54,7 @@ ping-pong-game/
 
 ---
 
-## ▶️ How to Run the Game
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/ping-pong-game.git
-   ```
-
-2. Open the project folder
-
-3. Open **index.html** in any modern web browser
-
----
 
 ## 🎮 Controls & Gameplay
 
@@ -75,15 +63,7 @@ ping-pong-game/
 
 ---
 
-## 🌐 Live Demo (Optional)
 
-When deployed using **GitHub Pages**, the game will be available at:
-
-```
-https://your-username.github.io/ping-pong-game/
-```
-
----
 
 ## 🔮 Future Improvements
 
