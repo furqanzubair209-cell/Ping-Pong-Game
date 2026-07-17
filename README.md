@@ -1,10 +1,3 @@
-# Ping-Pong-Game
-A simple and interactive Ping Pong game built using HTML, CSS, and JavaScript
-# 🏓 Ping-Pong-Game
-
-A simple and interactive Ping Pong game built using **HTML**, **CSS**, and **JavaScript**.
-
----
 
 ## 🏓 PONG AI – Neon Arcade Edition
 
