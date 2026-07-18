@@ -46,7 +46,9 @@ ping-pong-game/
 ```
 
 ---
+## Live Demo
 
+https://furqanpingponggame.netlify.app/
 
 
 ## 🎮 Controls & Gameplay
